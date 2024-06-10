@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=42EB10&height=180&section=header&text=Leonardo%20Fernando%20Luzetti&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=180&section=header&text=Jorge%20Guilherme%20Bernardi&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Jorge+Guilherme+Bernardi+;Sou+de+Jaú,+SP;Cursando+DSM,+Fatec+Jahu+;Bem-vindo!+:D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=rgba(17,60,117)&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Jorge+Guilherme+Bernardi+;Sou+de+Jaú,+SP;Cursando+DSM,+Fatec+Jahu+;Bem-vindo!+:D)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Jorge-Bernardi&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=42EB10&text_color=FFFFFF&bg_color=0d1117" alt="Jorge-Bernardi Github stats" /> 
@@ -27,6 +27,6 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=42EB10&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=footer"/>
   
   
